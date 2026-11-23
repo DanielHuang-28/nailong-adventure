@@ -1,0 +1,13 @@
+{
+  "asset": "nailong-silhouette-v004",
+  "method": "approved-turnaround elliptic profile loft plus fused limb lofts",
+  "body_vertices": 173860,
+  "body_polygons": 173856,
+  "status": {
+    "reference_profile_base": true,
+    "internal_visual_review": "pending",
+    "manual_sculpt_cleanup": false,
+    "facial_features": false,
+    "retopology": false
+  }
+}

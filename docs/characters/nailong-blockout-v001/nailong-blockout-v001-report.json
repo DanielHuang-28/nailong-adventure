@@ -1,0 +1,22 @@
+{
+  "asset": "nailong-blockout-v001",
+  "stage": "continuous-surface sculpt blockout",
+  "source_reference": "docs/characters/nailong-turnaround-v1-approved.png",
+  "body_vertices": 132792,
+  "body_polygons": 132792,
+  "body_triangles_estimate": 265584,
+  "dimensions_m": [
+    4.095,
+    3.347,
+    6.194
+  ],
+  "checks": {
+    "single_continuous_body_surface": true,
+    "no_ears_or_horns": true,
+    "separate_eye_components": true,
+    "topology_final": false,
+    "uv_complete": false,
+    "rigged": false,
+    "animation_complete": false
+  }
+}

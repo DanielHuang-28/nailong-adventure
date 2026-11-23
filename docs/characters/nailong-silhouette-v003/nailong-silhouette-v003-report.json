@@ -1,0 +1,36 @@
+{
+  "asset": "nailong-silhouette-v003",
+  "method": "reference-derived visual hull for sculpt base",
+  "reference": "docs/characters/nailong-turnaround-v1-approved.png",
+  "reference_dimensions_px": [
+    2172,
+    724
+  ],
+  "front_mask_bbox_px": [
+    175,
+    38,
+    679,
+    690
+  ],
+  "side_mask_bbox_px": [
+    155,
+    37,
+    520,
+    692
+  ],
+  "grid": [
+    64,
+    64,
+    80
+  ],
+  "base_vertices_before_subdivision": 122066,
+  "base_polygons_before_subdivision": 122064,
+  "status": {
+    "silhouette_base": true,
+    "manual_sculpt_cleanup": false,
+    "facial_features": false,
+    "retopology": false,
+    "uv": false,
+    "rig": false
+  }
+}

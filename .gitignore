@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.blend1
+public/assets/**/*.blend
+!public/assets/README.md
